@@ -2,7 +2,9 @@
 
 ### `cd frontend/`
 
-### `cd clip/`
+### `cd test_clip/`
+
+### `git clone https://github.com/Mario333333/test_clip.git`
 
 ### `npm install`
 
